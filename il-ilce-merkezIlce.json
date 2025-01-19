@@ -1,37 +1,37 @@
 [
   {
-    "il": "Adana",
-    "plaka": 1,
-    "ilceleri": [
+    "city": "Adana",
+    "plateCode": 1,
+    "provinces": [
       "Merkez",
-      "Aladağ",
+      "AladaÄŸ",
       "Ceyhan",
       "Feke",
-      "İmamoğlu",
-      "Karataş",
+      "Ä°mamoÄŸlu",
+      "KarataÅŸ",
       "Kozan",
-      "Pozantı",
+      "PozantÄ±",
       "Saimbeyli",
       "Tufanbeyli",
-      "Yumurtalık"
+      "YumurtalÄ±k"
     ],
-    "merkezIlceleri": [
-      "Çukurova ",
-      "Karaisalı ",
-      "Sarıçam",
+    "centralProvinces": [
+      "Ã‡ukurova ",
+      "KaraisalÄ± ",
+      "SarÄ±Ã§am",
       "Seyhan",
-      "Yüreğir"
+      "YÃ¼reÄŸir"
     ]
   },
   {
-    "il": "Adıyaman",
-    "plaka": 2,
-    "ilceleri": [
+    "city": "AdÄ±yaman",
+    "plateCode": 2,
+    "provinces": [
       "Merkez",
       "Besni",
-      "Çelikhan",
+      "Ã‡elikhan",
       "Gerger",
-      "Gölbaşı",
+      "GÃ¶lbaÅŸÄ±",
       "Kahta",
       "Merkez",
       "Samsat",
@@ -40,224 +40,225 @@
     ]
   },
   {
-    "il": "Afyonkarahisar",
-    "plaka": 3,
-    "ilceleri": [
+    "city": "Afyonkarahisar",
+    "plateCode": 3,
+    "provinces": [
       "Merkez",
-      "Başmakçı",
+      "BaÅŸmakÃ§Ä±",
       "Bayat",
       "Bolvadin",
-      "Çay",
-      "Çobanlar",
-      "Dazkırı",
+      "Ã‡ay",
+      "Ã‡obanlar",
+      "DazkÄ±rÄ±",
       "Dinar",
-      "Emirdağ",
+      "EmirdaÄŸ",
       "Evciler",
       "Hocalar",
-      "İhsaniye",
-      "İscehisar",
-      "Kızılören",
+      "Ä°hsaniye",
+      "Ä°scehisar",
+      "KÄ±zÄ±lÃ¶ren",
       "Merkez",
-      "Sandıklı",
-      "Sinanpaşa",
-      "Sultandağı",
-      "Şuhut"
+      "SandÄ±klÄ±",
+      "SinanpaÅŸa",
+      "SultandaÄŸÄ±",
+      "Åuhut"
     ]
   },
   {
-    "il": "Ağrı",
-    "plaka": 4,
-    "ilceleri": [
+    "city": "AÄŸrÄ±",
+    "plateCode": 4,
+    "provinces": [
       "Merkez",
       "Diyadin",
-      "Doğubayazıt",
-      "Eleşkirt",
+      "DoÄŸubayazÄ±t",
+      "EleÅŸkirt",
       "Hamur",
       "Merkez",
       "Patnos",
-      "Taşlıçay",
+      "TaÅŸlÄ±Ã§ay",
       "Tutak"
     ]
   },
   {
-    "il": "Amasya",
-    "plaka": 5,
-    "ilceleri": [
+    "city": "Amasya",
+    "plateCode": 5,
+    "provinces": [
       "Merkez",
-      "Göynücek",
-      "Gümüşhacıköy",
-      "Hamamözü",
+      "GÃ¶ynÃ¼cek",
+      "GÃ¼mÃ¼ÅŸhacÄ±kÃ¶y",
+      "HamamÃ¶zÃ¼",
       "Merkez",
       "Merzifon",
       "Suluova",
-      "Taşova"
+      "TaÅŸova"
     ]
   },
   {
-    "il": "Ankara",
-    "plaka": 6,
-    "ilceleri": [
+    "city": "Ankara",
+    "plateCode": 6,
+    "provinces": [
       "Merkez",
-      "Ayaş",
+      "AyaÅŸ",
       "Bala",
-      "Beypazarı",
-      "Çamlıdere",
-      "Çubuk",
-      "Elmadağ",
-      "Güdül",
+      "BeypazarÄ±",
+      "Ã‡amlÄ±dere",
+      "Ã‡ubuk",
+      "ElmadaÄŸ",
+      "GÃ¼dÃ¼l",
       "Haymana",
       "Kalecik",
-      "Kızılcahamam",
-      "Nallıhan",
-      "Polatlı",
-      "Şereflikoçhisar",
+      "KÄ±zÄ±lcahamam",
+      "NallÄ±han",
+      "PolatlÄ±",
+      "ÅereflikoÃ§hisar",
       "Kazan",
       "Akyurt",
       "Evren"
     ],
-    "merkezIlceleri": [
-      "Altındağ",
-      "Çankaya",
+    "centralProvinces": [
+      "AltÄ±ndaÄŸ",
+      "Ã‡ankaya",
       "Etimesgut",
-      "Gölbaşı",
-      "Keçiören",
+      "GÃ¶lbaÅŸÄ±",
+      "KeÃ§iÃ¶ren",
       "Mamak",
       "Pursaklar",
       "Sincan",
       "Yenimahalle"
-    ]
+    ],
+    "isCapitalCity": true
   },
   {
-    "il": "Antalya",
-    "plaka": 7,
-    "ilceleri": [
+    "city": "Antalya",
+    "plateCode": 7,
+    "provinces": [
       "Merkez",
       "Akseki",
       "Alanya",
-      "Elmalı",
+      "ElmalÄ±",
       "Finike",
-      "Gazipaşa",
-      "Gündoğmuş",
-      "Kaş",
+      "GazipaÅŸa",
+      "GÃ¼ndoÄŸmuÅŸ",
+      "KaÅŸ",
       "Korkuteli",
       "Kumluca",
       "Manavgat",
       "Serik",
       "Demre",
-      "İbradı",
+      "Ä°bradÄ±",
       "Kemer",
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Aksu",
-      "Döşemealtı",
+      "DÃ¶ÅŸemealtÄ±",
       "Kepez",
-      "Konyaaltı",
-      "Muratpaşa"
+      "KonyaaltÄ±",
+      "MuratpaÅŸa"
     ]
   },
   {
-    "il": "Artvin",
-    "plaka": 8,
-    "ilceleri": [
+    "city": "Artvin",
+    "plateCode": 8,
+    "provinces": [
       "Merkez",
-      "Ardanuç",
+      "ArdanuÃ§",
       "Arhavi",
       "Merkez",
-      "Borçka",
+      "BorÃ§ka",
       "Hopa",
-      "Şavşat",
+      "ÅavÅŸat",
       "Yusufeli",
       "Murgul"
     ]
   },
   {
-    "il": "Aydın",
-    "plaka": 9,
-    "ilceleri": [
+    "city": "AydÄ±n",
+    "plateCode": 9,
+    "provinces": [
       "Merkez",
-      "Bozdoğan",
-      "Çine",
+      "BozdoÄŸan",
+      "Ã‡ine",
       "Germencik",
       "Karacasu",
-      "Koçarlı",
-      "Kuşadası",
+      "KoÃ§arlÄ±",
+      "KuÅŸadasÄ±",
       "Kuyucak",
       "Nazilli",
-      "Söke",
+      "SÃ¶ke",
       "Sultanhisar",
       "Yenipazar",
       "Buharkent",
-      "İncirliova",
+      "Ä°ncirliova",
       "Karpuzlu",
-      "Köşk",
+      "KÃ¶ÅŸk",
       "Didim"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Efeler"
     ]
   },
   {
-    "il": "Balıkesir",
-    "plaka": 10,
-    "ilceleri": [
+    "city": "BalÄ±kesir",
+    "plateCode": 10,
+    "provinces": [
       "Merkez",
-      "Ayvalık",
+      "AyvalÄ±k",
       "Merkez",
       "Balya",
-      "Bandırma",
-      "Bigadiç",
+      "BandÄ±rma",
+      "BigadiÃ§",
       "Burhaniye",
       "Dursunbey",
       "Edremit",
       "Erdek",
-      "Gönen",
+      "GÃ¶nen",
       "Havran",
-      "İvrindi",
+      "Ä°vrindi",
       "Kepsut",
       "Manyas",
-      "Savaştepe",
-      "Sındırgı",
-      "Gömeç",
+      "SavaÅŸtepe",
+      "SÄ±ndÄ±rgÄ±",
+      "GÃ¶meÃ§",
       "Susurluk",
       "Marmara"
     ],
-    "merkezIlceleri": [
-      "Altıeylül",
+    "centralProvinces": [
+      "AltÄ±eylÃ¼l",
       "Karesi"
     ]
   },
   {
-    "il": "Bilecik",
-    "plaka": 11,
-    "ilceleri": [
+    "city": "Bilecik",
+    "plateCode": 11,
+    "provinces": [
       "Merkez",
-      "Bozüyük",
-      "Gölpazarı",
+      "BozÃ¼yÃ¼k",
+      "GÃ¶lpazarÄ±",
       "Osmaneli",
       "Pazaryeri",
-      "Söğüt",
+      "SÃ¶ÄŸÃ¼t",
       "Yenipazar",
-      "İnhisar"
+      "Ä°nhisar"
     ]
   },
   {
-    "il": "Bingöl",
-    "plaka": 12,
-    "ilceleri": [
+    "city": "BingÃ¶l",
+    "plateCode": 12,
+    "provinces": [
       "Merkez",
-      "Genç",
-      "Karlıova",
-      "Kiğı",
+      "GenÃ§",
+      "KarlÄ±ova",
+      "KiÄŸÄ±",
       "Solhan",
-      "Adaklı",
+      "AdaklÄ±",
       "Yayladere",
       "Yedisu"
     ]
   },
   {
-    "il": "Bitlis",
-    "plaka": 13,
-    "ilceleri": [
+    "city": "Bitlis",
+    "plateCode": 13,
+    "provinces": [
       "Merkez",
       "Adilcevaz",
       "Ahlat",
@@ -265,164 +266,164 @@
       "Hizan",
       "Mutki",
       "Tatvan",
-      "Güroymak"
+      "GÃ¼roymak"
     ]
   },
   {
-    "il": "Bolu",
-    "plaka": 14,
-    "ilceleri": [
+    "city": "Bolu",
+    "plateCode": 14,
+    "provinces": [
       "Merkez",
       "Gerede",
-      "Göynük",
-      "Kıbrıscık",
+      "GÃ¶ynÃ¼k",
+      "KÄ±brÄ±scÄ±k",
       "Mengen",
       "Mudurnu",
       "Seben",
-      "Dörtdivan",
-      "Yeniçağa"
+      "DÃ¶rtdivan",
+      "YeniÃ§aÄŸa"
     ]
   },
   {
-    "il": "Burdur",
-    "plaka": 15,
-    "ilceleri": [
+    "city": "Burdur",
+    "plateCode": 15,
+    "provinces": [
       "Merkez",
-      "Ağlasun",
+      "AÄŸlasun",
       "Bucak",
       "Merkez",
-      "Gölhisar",
+      "GÃ¶lhisar",
       "Tefenni",
-      "Yeşilova",
-      "Karamanlı",
+      "YeÅŸilova",
+      "KaramanlÄ±",
       "Kemer",
-      "Altınyayla",
-      "Çavdır",
-      "Çeltikçi"
+      "AltÄ±nyayla",
+      "Ã‡avdÄ±r",
+      "Ã‡eltikÃ§i"
     ]
   },
   {
-    "il": "Bursa",
-    "plaka": 16,
-    "ilceleri": [
+    "city": "Bursa",
+    "plateCode": 16,
+    "provinces": [
       "Merkez",
       "Gemlik",
-      "İnegöl",
-      "İznik",
+      "Ä°negÃ¶l",
+      "Ä°znik",
       "Karacabey",
       "Keles",
       "Mudanya",
-      "Mustafakemalpaşa",
+      "MustafakemalpaÅŸa",
       "Orhaneli",
       "Orhangazi",
-      "Yenişehir",
-      "Büyükorhan",
-      "Harmancık",
-      "Gürsu",
+      "YeniÅŸehir",
+      "BÃ¼yÃ¼korhan",
+      "HarmancÄ±k",
+      "GÃ¼rsu",
       "Kestel"
     ],
-    "merkezIlceleri": [
-      "Nilüfer",
+    "centralProvinces": [
+      "NilÃ¼fer",
       "Osmangazi",
-      "Yıldırım"
+      "YÄ±ldÄ±rÄ±m"
     ]
   },
   {
-    "il": "Çanakkale",
-    "plaka": 17,
-    "ilceleri": [
+    "city": "Ã‡anakkale",
+    "plateCode": 17,
+    "provinces": [
       "Merkez",
-      "Ayvacık",
-      "Bayramiç",
+      "AyvacÄ±k",
+      "BayramiÃ§",
       "Biga",
       "Bozcaada",
-      "Çan",
+      "Ã‡an",
       "Merkez",
       "Eceabat",
       "Ezine",
       "Gelibolu",
-      "Gökçeada",
+      "GÃ¶kÃ§eada",
       "Lapseki",
       "Yenice"
     ]
   },
   {
-    "il": "Çankırı",
-    "plaka": 18,
-    "ilceleri": [
+    "city": "Ã‡ankÄ±rÄ±",
+    "plateCode": 18,
+    "provinces": [
       "Merkez",
-      "Çerkeş",
+      "Ã‡erkeÅŸ",
       "Eldivan",
       "Ilgaz",
-      "Kurşunlu",
+      "KurÅŸunlu",
       "Orta",
-      "Şabanözü",
-      "Yapraklı",
+      "ÅabanÃ¶zÃ¼",
+      "YapraklÄ±",
       "Atkaracalar",
-      "Kızılırmak",
-      "Bayramören",
+      "KÄ±zÄ±lÄ±rmak",
+      "BayramÃ¶ren",
       "Korgun"
     ]
   },
   {
-    "il": "Çorum",
-    "plaka": 19,
-    "ilceleri": [
+    "city": "Ã‡orum",
+    "plateCode": 19,
+    "provinces": [
       "Merkez",
       "Alaca",
       "Bayat",
       "Merkez",
-      "İskilip",
-      "Kargı",
-      "Mecitözü",
-      "Ortaköy",
-      "Osmancık",
+      "Ä°skilip",
+      "KargÄ±",
+      "MecitÃ¶zÃ¼",
+      "OrtakÃ¶y",
+      "OsmancÄ±k",
       "Sungurlu",
-      "Boğazkale",
-      "Uğurludağ",
+      "BoÄŸazkale",
+      "UÄŸurludaÄŸ",
       "Dodurga",
-      "Laçin",
-      "Oğuzlar"
+      "LaÃ§in",
+      "OÄŸuzlar"
     ]
   },
   {
-    "il": "Denizli",
-    "plaka": 20,
-    "ilceleri": [
+    "city": "Denizli",
+    "plateCode": 20,
+    "provinces": [
       "Merkez",
-      "Acıpayam",
+      "AcÄ±payam",
       "Buldan",
-      "Çal",
-      "Çameli",
-      "Çardak",
-      "Çivril",
+      "Ã‡al",
+      "Ã‡ameli",
+      "Ã‡ardak",
+      "Ã‡ivril",
       "Merkez",
-      "Güney",
+      "GÃ¼ney",
       "Kale",
-      "Sarayköy",
+      "SaraykÃ¶y",
       "Tavas",
-      "Babadağ",
+      "BabadaÄŸ",
       "Bekilli",
       "Honaz",
       "Serinhisar",
       "Baklan",
-      "Beyağaç",
+      "BeyaÄŸaÃ§",
       "Bozkurt"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Merkezefendi",
       "Pamukkale"
     ]
   },
   {
-    "il": "Diyarbakır",
-    "plaka": 21,
-    "ilceleri": [
+    "city": "DiyarbakÄ±r",
+    "plateCode": 21,
+    "provinces": [
       "Merkez",
-      "Kocaköy",
-      "Çermik",
-      "Çınar",
-      "Çüngüş",
+      "KocakÃ¶y",
+      "Ã‡ermik",
+      "Ã‡Ä±nar",
+      "Ã‡Ã¼ngÃ¼ÅŸ",
       "Dicle",
       "Ergani",
       "Hani",
@@ -430,139 +431,139 @@
       "Kulp",
       "Lice",
       "Silvan",
-      "Eğil",  
+      "EÄŸil",  
       "Bismil"
     ],
-    "merkezIlceleri": [
-      "Bağlar",
-      "Kayapınar",
+    "centralProvinces": [
+      "BaÄŸlar",
+      "KayapÄ±nar",
       "Sur",
-      "Yenişehir"
+      "YeniÅŸehir"
     ]
   },
   {
-    "il": "Edirne",
-    "plaka": 22,
-    "ilceleri": [
+    "city": "Edirne",
+    "plateCode": 22,
+    "provinces": [
       "Merkez",
       "Enez",
       "Havsa",
-      "İpsala",
-      "Keşan",
-      "Lalapaşa",
-      "Meriç",
-      "Uzunköprü",
-      "Süloğlu"
+      "Ä°psala",
+      "KeÅŸan",
+      "LalapaÅŸa",
+      "MeriÃ§",
+      "UzunkÃ¶prÃ¼",
+      "SÃ¼loÄŸlu"
     ]
   },
   {
-    "il": "Elazığ",
-    "plaka": 23,
-    "ilceleri": [
+    "city": "ElazÄ±ÄŸ",
+    "plateCode": 23,
+    "provinces": [
       "Merkez",
-      "Ağın",
+      "AÄŸÄ±n",
       "Baskil",
       "Merkez",
-      "Karakoçan",
+      "KarakoÃ§an",
       "Keban",
       "Maden",
       "Palu",
       "Sivrice",
-      "Arıcak",
-      "Kovancılar",
+      "ArÄ±cak",
+      "KovancÄ±lar",
       "Alacakaya"
     ]
   },
   {
-    "il": "Erzincan",
-    "plaka": 24,
-    "ilceleri": [
+    "city": "Erzincan",
+    "plateCode": 24,
+    "provinces": [
       "Merkez",
-      "Çayırlı",
+      "Ã‡ayÄ±rlÄ±",
       "Merkez",
-      "İliç",
+      "Ä°liÃ§",
       "Kemah",
       "Kemaliye",
       "Refahiye",
       "Tercan",
-      "Üzümlü",
+      "ÃœzÃ¼mlÃ¼",
       "Otlukbeli"
     ]
   },
   {
-    "il": "Erzurum",
-    "plaka": 25,
-    "ilceleri": [
+    "city": "Erzurum",
+    "plateCode": 25,
+    "provinces": [
       "Merkez",
-      "Aşkale",
-      "Çat",
-      "Hınıs",
+      "AÅŸkale",
+      "Ã‡at",
+      "HÄ±nÄ±s",
       "Horasan",
-      "İspir",
-      "Karayazı",
+      "Ä°spir",
+      "KarayazÄ±",
       "Narman",
       "Oltu",
       "Olur",
       "Pasinler",
-      "Şenkaya",
+      "Åenkaya",
       "Tekman",
       "Tortum",
-      "Karaçoban",
+      "KaraÃ§oban",
       "Uzundere",
       "Pazaryolu",
-      "Köprüköy"
+      "KÃ¶prÃ¼kÃ¶y"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Aziziye",
-      "Palandöken",
+      "PalandÃ¶ken",
       "Yakutiye"
     ]
   },
   {
-    "il": "Eskişehir",
-    "plaka": 26,
-    "ilceleri": [
+    "city": "EskiÅŸehir",
+    "plateCode": 26,
+    "provinces": [
       "Merkez",
-      "Çifteler",
+      "Ã‡ifteler",
       "Mahmudiye",
-      "Mihalıççık",
-      "Sarıcakaya",
+      "MihalÄ±Ã§Ã§Ä±k",
+      "SarÄ±cakaya",
       "Seyitgazi",
       "Sivrihisar",
       "Alpu",
       "Beylikova",
-      "İnönü",
-      "Günyüzü",
+      "Ä°nÃ¶nÃ¼",
+      "GÃ¼nyÃ¼zÃ¼",
       "Han",
       "Mihalgazi"
     ],
-    "merkezIlceleri": [
-      "Odunpazarı",
-      "Tepebaşı"
+    "centralProvinces": [
+      "OdunpazarÄ±",
+      "TepebaÅŸÄ±"
     ]
   },
   {
-    "il": "Gaziantep",
-    "plaka": 27,
-    "ilceleri": [
+    "city": "Gaziantep",
+    "plateCode": 27,
+    "provinces": [
       "Merkez",
       "Araban",
-      "İslahiye",
+      "Ä°slahiye",
       "Nizip",
-      "Oğuzeli",
+      "OÄŸuzeli",
       "Yavuzeli",
-      "Karkamış",
-      "Nurdağı"
+      "KarkamÄ±ÅŸ",
+      "NurdaÄŸÄ±"
     ],
-    "merkezIlceleri": [
-      "Şahinbey",
-      "Şehitkamil"
+    "centralProvinces": [
+      "Åahinbey",
+      "Åehitkamil"
     ]
   },
   {
-    "il": "Giresun",
-    "plaka": 28,
-    "ilceleri": [
+    "city": "Giresun",
+    "plateCode": 28,
+    "provinces": [
       "Merkez",
       "Alucra",
       "Bulancak",
@@ -570,562 +571,562 @@
       "Espiye",
       "Eynesil",
       "Merkez",
-      "Görele",
-      "Keşap",
-      "Şebinkarahisar",
+      "GÃ¶rele",
+      "KeÅŸap",
+      "Åebinkarahisar",
       "Tirebolu",
       "Piraziz",
-      "Yağlıdere",
-      "Çamoluk",
-      "Çanakçı",
-      "Doğankent",
-      "Güce"
+      "YaÄŸlÄ±dere",
+      "Ã‡amoluk",
+      "Ã‡anakÃ§Ä±",
+      "DoÄŸankent",
+      "GÃ¼ce"
     ]
   },
   {
-    "il": "Gümüşhane",
-    "plaka": 29,
-    "ilceleri": [
+    "city": "GÃ¼mÃ¼ÅŸhane",
+    "plateCode": 29,
+    "provinces": [
       "Merkez",
       "Kelkit",
-      "Şiran",
+      "Åiran",
       "Torul",
-      "Köse",
-      "Kürtün"
+      "KÃ¶se",
+      "KÃ¼rtÃ¼n"
     ]
   },
   {
-    "il": "Hakkari",
-    "plaka": 30,
-    "ilceleri": [
+    "city": "Hakkari",
+    "plateCode": 30,
+    "provinces": [
       "Merkez",
       "Derecik",
-      "Çukurca",
-      "Şemdinli",
-      "Yüksekova"
+      "Ã‡ukurca",
+      "Åemdinli",
+      "YÃ¼ksekova"
     ]
   },
   {
-    "il": "Hatay",
-    "plaka": 31,
-    "ilceleri": [
+    "city": "Hatay",
+    "plateCode": 31,
+    "provinces": [
       "Merkez",
-      "Altınözü",
+      "AltÄ±nÃ¶zÃ¼",
       "Arsuz",
-      "Dörtyol",
+      "DÃ¶rtyol",
       "Hassa",
-      "İskenderun",
-      "Kırıkhan",
+      "Ä°skenderun",
+      "KÄ±rÄ±khan",
       "Payas",
-      "Reyhanlı",
-      "Samandağ",
-      "Yayladağı",
+      "ReyhanlÄ±",
+      "SamandaÄŸ",
+      "YayladaÄŸÄ±",
       "Erzin",
       "Belen",
       "Kumlu"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Antakya",
       "Defne"
     ]
   },
   {
-    "il": "Isparta",
-    "plaka": 32,
-    "ilceleri": [
+    "city": "Isparta",
+    "plateCode": 32,
+    "provinces": [
       "Merkez",
       "Atabey",
-      "Eğirdir",
+      "EÄŸirdir",
       "Gelendost",
-      "Keçiborlu",
+      "KeÃ§iborlu",
       "Senirkent",
-      "Sütçüler",
-      "Şarkikaraağaç",
+      "SÃ¼tÃ§Ã¼ler",
+      "ÅarkikaraaÄŸaÃ§",
       "Uluborlu",
-      "Yalvaç",
+      "YalvaÃ§",
       "Aksu",
-      "Gönen",
-      "Yenişarbademli"
+      "GÃ¶nen",
+      "YeniÅŸarbademli"
     ]
   },
   {
-    "il": "Mersin",
-    "plaka": 33,
-    "ilceleri": [
+    "city": "Mersin",
+    "plateCode": 33,
+    "provinces": [
       "Merkez",
       "Anamur",
       "Erdemli",
-      "Gülnar",
+      "GÃ¼lnar",
       "Mut",
       "Silifke",
       "Tarsus",
-      "Aydıncık",
-      "Bozyazı",
-      "Çamlıyayla"
+      "AydÄ±ncÄ±k",
+      "BozyazÄ±",
+      "Ã‡amlÄ±yayla"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Akdeniz",
       "Mezitli",
       "Toroslar",
-      "Yenişehir"
+      "YeniÅŸehir"
     ]
   },
   {
-    "il": "İstanbul",
-    "plaka": 34,
-    "ilceleri": [
+    "city": "Ä°stanbul",
+    "plateCode": 34,
+    "provinces": [
       "Adalar",
-      "Bakırköy",
-      "Beşiktaş",
+      "BakÄ±rkÃ¶y",
+      "BeÅŸiktaÅŸ",
       "Beykoz",
-      "Beyoğlu",
-      "Çatalca",
-      "Eyüp",
+      "BeyoÄŸlu",
+      "Ã‡atalca",
+      "EyÃ¼p",
       "Fatih",
-      "Gaziosmanpaşa",
-      "Kadıköy",
+      "GaziosmanpaÅŸa",
+      "KadÄ±kÃ¶y",
       "Kartal",
-      "Sarıyer",
+      "SarÄ±yer",
       "Silivri",
-      "Şile",
-      "Şişli",
-      "Üsküdar",
+      "Åile",
+      "ÅiÅŸli",
+      "ÃœskÃ¼dar",
       "Zeytinburnu",
-      "Büyükçekmece",
-      "Kağıthane",
-      "Küçükçekmece",
+      "BÃ¼yÃ¼kÃ§ekmece",
+      "KaÄŸÄ±thane",
+      "KÃ¼Ã§Ã¼kÃ§ekmece",
       "Pendik",
-      "Ümraniye",
-      "Bayrampaşa",
-      "Avcılar",
-      "Bağcılar",
-      "Bahçelievler",
-      "Güngören",
+      "Ãœmraniye",
+      "BayrampaÅŸa",
+      "AvcÄ±lar",
+      "BaÄŸcÄ±lar",
+      "BahÃ§elievler",
+      "GÃ¼ngÃ¶ren",
       "Maltepe",
       "Sultanbeyli",
       "Tuzla",
       "Esenler",
-      "Arnavutköy",
-      "Ataşehir",
-      "Başakşehir",
-      "Beylikdüzü",
-      "Çekmeköy",
+      "ArnavutkÃ¶y",
+      "AtaÅŸehir",
+      "BaÅŸakÅŸehir",
+      "BeylikdÃ¼zÃ¼",
+      "Ã‡ekmekÃ¶y",
       "Esenyurt",
       "Sancaktepe",
       "Sultangazi"
     ]
   },
   {
-    "il": "İzmir",
-    "plaka": 35,
-    "ilceleri": [
+    "city": "Ä°zmir",
+    "plateCode": 35,
+    "provinces": [
       "Merkez",
-      "Aliağa",
-      "Bayındır",
+      "AliaÄŸa",
+      "BayÄ±ndÄ±r",
       "Bergama",
-      "Çeşme",
+      "Ã‡eÅŸme",
       "Dikili",
-      "Foça",
+      "FoÃ§a",
       "Karaburun",
-      "Kemalpaşa",
-      "Kınık",
+      "KemalpaÅŸa",
+      "KÄ±nÄ±k",
       "Kiraz",
       "Menemen",
-      "Ödemiş",
+      "Ã–demiÅŸ",
       "Seferihisar",
-      "Selçuk",
+      "SelÃ§uk",
       "Tire",
-      "Torbalı",
+      "TorbalÄ±",
       "Urla",
-      "Beydağ",
+      "BeydaÄŸ",
       "Menderes"
     ],
-    "merkezIlceleri": [
-      "Balçova",
-      "Bayraklı",
+    "centralProvinces": [
+      "BalÃ§ova",
+      "BayraklÄ±",
       "Bornova",
       "Buca",
-      "Çiğli",
+      "Ã‡iÄŸli",
       "Gaziemir",
-      "Narlıdere",
-      "Güzelbahçe",
-      "Karabağlar",
-      "Karşıyaka",
+      "NarlÄ±dere",
+      "GÃ¼zelbahÃ§e",
+      "KarabaÄŸlar",
+      "KarÅŸÄ±yaka",
       "Konak"
     ]
   },
   {
-    "il": "Kars",
-    "plaka": 36,
-    "ilceleri": [
+    "city": "Kars",
+    "plateCode": 36,
+    "provinces": [
       "Merkez",
-      "Arpaçay",
+      "ArpaÃ§ay",
       "Digor",
-      "Kağızman",
-      "Sarıkamış",
+      "KaÄŸÄ±zman",
+      "SarÄ±kamÄ±ÅŸ",
       "Selim",
       "Susuz",
       "Akyaka"
     ]
   },
   {
-    "il": "Kastamonu",
-    "plaka": 37,
-    "ilceleri": [
+    "city": "Kastamonu",
+    "plateCode": 37,
+    "provinces": [
       "Merkez",
       "Abana",
-      "Araç",
+      "AraÃ§",
       "Azdavay",
       "Bozkurt",
       "Cide",
-      "Çatalzeytin",
+      "Ã‡atalzeytin",
       "Daday",
       "Devrekani",
-      "İnebolu",
+      "Ä°nebolu",
       "Merkez",
-      "Küre",
-      "Taşköprü",
+      "KÃ¼re",
+      "TaÅŸkÃ¶prÃ¼",
       "Tosya",
-      "İhsangazi",
-      "Pınarbaşı",
-      "Şenpazar",
-      "Ağlı",
-      "Doğanyurt",
-      "Hanönü",
+      "Ä°hsangazi",
+      "PÄ±narbaÅŸÄ±",
+      "Åenpazar",
+      "AÄŸlÄ±",
+      "DoÄŸanyurt",
+      "HanÃ¶nÃ¼",
       "Seydiler"
     ]
   },
   {
-    "il": "Kayseri",
-    "plaka": 38,
-    "ilceleri": [
+    "city": "Kayseri",
+    "plateCode": 38,
+    "provinces": [
       "Merkez",
-      "Bünyan",
+      "BÃ¼nyan",
       "Develi",
       "Felahiye",
-      "İncesu",
-      "Pınarbaşı",
-      "Sarıoğlan",
-      "Sarız",
+      "Ä°ncesu",
+      "PÄ±narbaÅŸÄ±",
+      "SarÄ±oÄŸlan",
+      "SarÄ±z",
       "Tomarza",
-      "Yahyalı",
-      "Yeşilhisar",
-      "Akkışla",
+      "YahyalÄ±",
+      "YeÅŸilhisar",
+      "AkkÄ±ÅŸla",
       "Talas",
-      "Hacılar",
-      "Özvatan"
+      "HacÄ±lar",
+      "Ã–zvatan"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Kocasinan",
       "Melikgazi"
     ]
   },
   {
-    "il": "Kırklareli",
-    "plaka": 39,
-    "ilceleri": [
+    "city": "KÄ±rklareli",
+    "plateCode": 39,
+    "provinces": [
       "Merkez",
       "Babaeski",
-      "Demirköy",
-      "Kofçaz",
-      "Lüleburgaz",
-      "Pehlivanköy",
-      "Pınarhisar",
+      "DemirkÃ¶y",
+      "KofÃ§az",
+      "LÃ¼leburgaz",
+      "PehlivankÃ¶y",
+      "PÄ±narhisar",
       "Vize"
     ]
   },
   {
-    "il": "Kırşehir",
-    "plaka": 40,
-    "ilceleri": [
+    "city": "KÄ±rÅŸehir",
+    "plateCode": 40,
+    "provinces": [
       "Merkez"
-      "Çiçekdağı",
+      "Ã‡iÃ§ekdaÄŸÄ±",
       "Kaman",
       "Mucur",
-      "Akpınar",
-      "Akçakent",
+      "AkpÄ±nar",
+      "AkÃ§akent",
       "Boztepe"
     ]
   },
   {
-    "il": "Kocaeli",
-    "plaka": 41,
-    "ilceleri": [
+    "city": "Kocaeli",
+    "plateCode": 41,
+    "provinces": [
       "Merkez",
       "Gebze",
-      "Gölcük",
-      "Kandıra",
-      "Karamürsel",
-      "Körfez",
+      "GÃ¶lcÃ¼k",
+      "KandÄ±ra",
+      "KaramÃ¼rsel",
+      "KÃ¶rfez",
       "Derince",
-      "Başiskele",
-      "Çayırova",
-      "Darıca",
-      "Dilovası",
+      "BaÅŸiskele",
+      "Ã‡ayÄ±rova",
+      "DarÄ±ca",
+      "DilovasÄ±",
       "Kartepe"
     ],
-    "merkezIlceleri": [
-      "İzmit"
+    "centralProvinces": [
+      "Ä°zmit"
     ]
   },
   {
-    "il": "Konya",
-    "plaka": 42,
-    "ilceleri": [
+    "city": "Konya",
+    "plateCode": 42,
+    "provinces": [
       "Merkez",
-      "Akşehir",
-      "Beyşehir",
-      "Bozkır",
+      "AkÅŸehir",
+      "BeyÅŸehir",
+      "BozkÄ±r",
       "Cihanbeyli",
-      "Çumra",
-      "Doğanhisar",
-      "Ereğli",
+      "Ã‡umra",
+      "DoÄŸanhisar",
+      "EreÄŸli",
       "Hadim",
-      "Ilgın",
-      "Kadınhanı",
-      "Karapınar",
+      "IlgÄ±n",
+      "KadÄ±nhanÄ±",
+      "KarapÄ±nar",
       "Kulu",
-      "Sarayönü",
-      "Seydişehir",
+      "SarayÃ¶nÃ¼",
+      "SeydiÅŸehir",
       "Yunak",
-      "Akören",
-      "Altınekin",
+      "AkÃ¶ren",
+      "AltÄ±nekin",
       "Derebucak",
-      "Hüyük",
-      "Taşkent",
-      "Ahırlı",
-      "Çeltik",
+      "HÃ¼yÃ¼k",
+      "TaÅŸkent",
+      "AhÄ±rlÄ±",
+      "Ã‡eltik",
       "Derbent",
       "Emirgazi",
-      "Güneysınır",
-      "Halkapınar",
-      "Tuzlukçu",
-      "Yalıhüyük"
+      "GÃ¼neysÄ±nÄ±r",
+      "HalkapÄ±nar",
+      "TuzlukÃ§u",
+      "YalÄ±hÃ¼yÃ¼k"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Karatay",
       "Meram",
-      "Selçuklu"
+      "SelÃ§uklu"
     ]
   },
   {
-    "il": "Kütahya",
-    "plaka": 43,
-    "ilceleri": [
+    "city": "KÃ¼tahya",
+    "plateCode": 43,
+    "provinces": [
       "Merkez",
-      "Altıntaş",
-      "Domaniç",
+      "AltÄ±ntaÅŸ",
+      "DomaniÃ§",
       "Emet",
       "Gediz",
       "Simav",
-      "Tavşanlı",
+      "TavÅŸanlÄ±",
       "Aslanapa",
-      "Dumlupınar",
-      "Hisarcık",
-      "Şaphane",
-      "Çavdarhisar",
+      "DumlupÄ±nar",
+      "HisarcÄ±k",
+      "Åaphane",
+      "Ã‡avdarhisar",
       "Pazarlar"
     ]
   },
   {
-    "il": "Malatya",
-    "plaka": 44,
-    "ilceleri": [
+    "city": "Malatya",
+    "plateCode": 44,
+    "provinces": [
       "Merkez",
-      "Akçadağ",
+      "AkÃ§adaÄŸ",
       "Arapgir",
       "Arguvan",
       "Darende",
-      "Doğanşehir",
+      "DoÄŸanÅŸehir",
       "Hekimhan",
-      "Pütürge",
-      "Doğanyol",
+      "PÃ¼tÃ¼rge",
+      "DoÄŸanyol",
       "Kale",
       "Kuluncak",
-      "Yazıhan"
+      "YazÄ±han"
     ],
-    "merkezIlceleri": [
-      "Yeşilyurt",
+    "centralProvinces": [
+      "YeÅŸilyurt",
       "Battalgazi"
     ]
   },
   {
-    "il": "Manisa",
-    "plaka": 45,
-    "ilceleri": [
+    "city": "Manisa",
+    "plateCode": 45,
+    "provinces": [
       "Merkez",
       "Akhisar",
-      "Alaşehir",
+      "AlaÅŸehir",
       "Demirci",
-      "Gördes",
-      "Kırkağaç",
+      "GÃ¶rdes",
+      "KÄ±rkaÄŸaÃ§",
       "Kula",
       "Salihli",
-      "Sarıgöl",
-      "Saruhanlı",
+      "SarÄ±gÃ¶l",
+      "SaruhanlÄ±",
       "Selendi",
       "Soma",
       "Turgutlu",
       "Ahmetli",
-      "Gölmarmara",
-      "Köprübaşı"
+      "GÃ¶lmarmara",
+      "KÃ¶prÃ¼baÅŸÄ±"
     ],
-    "merkezIlceleri": [
-      "Şehzadeler",
+    "centralProvinces": [
+      "Åehzadeler",
       "Yunusemre"
     ]
   },
   {
-    "il": "Kahramanmaraş",
-    "plaka": 46,
-    "ilceleri": [
+    "city": "KahramanmaraÅŸ",
+    "plateCode": 46,
+    "provinces": [
       "Merkez",
-      "Afşin",
-      "Andırın",
+      "AfÅŸin",
+      "AndÄ±rÄ±n",
       "Elbistan",
-      "Göksun",
-      "Pazarcık",
-      "Türkoğlu",
-      "Çağlayancerit",
-      "Ekinözü",
+      "GÃ¶ksun",
+      "PazarcÄ±k",
+      "TÃ¼rkoÄŸlu",
+      "Ã‡aÄŸlayancerit",
+      "EkinÃ¶zÃ¼",
       "Nurhak"
     ],
-    "merkezIlceleri": [
-      "Dulkadiroğlu",
-      "Onikişubat"
+    "centralProvinces": [
+      "DulkadiroÄŸlu",
+      "OnikiÅŸubat"
     ]
   },
   {
-    "il": "Mardin",
-    "plaka": 47,
-    "ilceleri": [
+    "city": "Mardin",
+    "plateCode": 47,
+    "provinces": [
       "Merkez",
       "Derik",
-      "Kızıltepe",
-      "Mazıdağı",
+      "KÄ±zÄ±ltepe",
+      "MazÄ±daÄŸÄ±",
       "Midyat",
       "Nusaybin",
-      "Ömerli",
+      "Ã–merli",
       "Savur",
-      "Dargeçit",
-      "Yeşilli"
+      "DargeÃ§it",
+      "YeÅŸilli"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Artuklu"
     ]
   },
   {
-    "il": "Muğla",
-    "plaka": 48,
-    "ilceleri": [
+    "city": "MuÄŸla",
+    "plateCode": 48,
+    "provinces": [
       "Merkez",
       "Bodrum",
-      "Datça",
+      "DatÃ§a",
       "Fethiye",
-      "Köyceğiz",
+      "KÃ¶yceÄŸiz",
       "Marmaris",
       "Milas",
       "Ula",
-      "Yatağan",
+      "YataÄŸan",
       "Dalaman",
       "Seydikemer",
       "Ortaca",
-      "Kavaklıdere"
+      "KavaklÄ±dere"
     ],
-    "merkezIlceleri": [
-      "Menteşe"
+    "centralProvinces": [
+      "MenteÅŸe"
     ]
   },
   {
-    "il": "Muş",
-    "plaka": 49,
-    "ilceleri": [
+    "city": "MuÅŸ",
+    "plateCode": 49,
+    "provinces": [
       "Merkez",
-      "Bulanık",
+      "BulanÄ±k",
       "Malazgirt",
       "Varto",
-      "Hasköy",
+      "HaskÃ¶y",
       "Korkut"
     ]
   },
   {
-    "il": "Nevşehir",
-    "plaka": 50,
-    "ilceleri": [
+    "city": "NevÅŸehir",
+    "plateCode": 50,
+    "provinces": [
       "Merkez",
       "Avanos",
       "Derinkuyu",
-      "Gülşehir",
-      "Hacıbektaş",
-      "Kozaklı",
-      "Ürgüp",
-      "Acıgöl"
+      "GÃ¼lÅŸehir",
+      "HacÄ±bektaÅŸ",
+      "KozaklÄ±",
+      "ÃœrgÃ¼p",
+      "AcÄ±gÃ¶l"
     ]
   },
   {
-    "il": "Niğde",
-    "plaka": 51,
-    "ilceleri": [
+    "city": "NiÄŸde",
+    "plateCode": 51,
+    "provinces": [
       "Merkez",
       "Bor",
-      "Çamardı",
-      "Ulukışla",
+      "Ã‡amardÄ±",
+      "UlukÄ±ÅŸla",
       "Altunhisar",
-      "Çiftlik"
+      "Ã‡iftlik"
     ]
   },
   {
-    "il": "Ordu",
-    "plaka": 52,
-    "ilceleri": [
+    "city": "Ordu",
+    "plateCode": 52,
+    "provinces": [
       "Merkez",
-      "Akkuş",
-      "Aybastı",
+      "AkkuÅŸ",
+      "AybastÄ±",
       "Fatsa",
-      "Gölköy",
+      "GÃ¶lkÃ¶y",
       "Korgan",
       "Kumru",
       "Mesudiye",
-      "Perşembe",
+      "PerÅŸembe",
       "Ulubey",
-      "Ünye",
-      "Gülyalı",
-      "Gürgentepe",
-      "Çamaş",
-      "Çatalpınar",
-      "Çaybaşı",
-      "İkizce",
-      "Kabadüz",
-      "Kabataş"
+      "Ãœnye",
+      "GÃ¼lyalÄ±",
+      "GÃ¼rgentepe",
+      "Ã‡amaÅŸ",
+      "Ã‡atalpÄ±nar",
+      "Ã‡aybaÅŸÄ±",
+      "Ä°kizce",
+      "KabadÃ¼z",
+      "KabataÅŸ"
     ],
-    "merkezIlceleri": [
-      "Altınordu"
+    "centralProvinces": [
+      "AltÄ±nordu"
     ]
   },
   {
-    "il": "Rize",
-    "plaka": 53,
-    "ilceleri": [
+    "city": "Rize",
+    "plateCode": 53,
+    "provinces": [
       "Merkez",
-      "Ardeşen",
-      "Çamlıhemşin",
-      "Çayeli",
-      "Fındıklı",
-      "İkizdere",
+      "ArdeÅŸen",
+      "Ã‡amlÄ±hemÅŸin",
+      "Ã‡ayeli",
+      "FÄ±ndÄ±klÄ±",
+      "Ä°kizdere",
       "Kalkandere",
       "Pazar",
-      "Güneysu",
-      "Derepazarı",
-      "Hemşin",
-      "İyidere"
+      "GÃ¼neysu",
+      "DerepazarÄ±",
+      "HemÅŸin",
+      "Ä°yidere"
     ]
   },
   {
-    "il": "Sakarya",
-    "plaka": 54,
-    "ilceleri": [
+    "city": "Sakarya",
+    "plateCode": 54,
+    "provinces": [
       "Merkez",
-      "Akyazı",
+      "AkyazÄ±",
       "Geyve",
       "Hendek",
       "Karasu",
@@ -1133,396 +1134,396 @@
       "Sapanca",
       "Kocaali",
       "Pamukova",
-      "Taraklı",
+      "TaraklÄ±",
       "Ferizli",
-      "Karapürçek",
-      "Söğütlü",
+      "KarapÃ¼rÃ§ek",
+      "SÃ¶ÄŸÃ¼tlÃ¼",
       "Arifiye",
       "Erenler",
       "Serdivan"
     ],
-    "merkezIlceleri": [
-      "Adapazarı"    ]
+    "centralProvinces": [
+      "AdapazarÄ±"    ]
   },
   {
-    "il": "Samsun",
-    "plaka": 55,
-    "ilceleri": [
+    "city": "Samsun",
+    "plateCode": 55,
+    "provinces": [
       "Merkez",
-      "Alaçam",
+      "AlaÃ§am",
       "Bafra",
-      "Çarşamba",
+      "Ã‡arÅŸamba",
       "Havza",
       "Kavak",
       "Ladik",
       "Terme",
-      "Vezirköprü",
-      "Asarcık",
-      "Ondokuzmayıs",
-      "Salıpazarı",
-      "Ayvacık",
+      "VezirkÃ¶prÃ¼",
+      "AsarcÄ±k",
+      "OndokuzmayÄ±s",
+      "SalÄ±pazarÄ±",
+      "AyvacÄ±k",
       "Yakakent"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Atakum",
       "Canik",
-      "İlkadım",
-      "Tekkeköy"
+      "Ä°lkadÄ±m",
+      "TekkekÃ¶y"
     ]
   },
   {
-    "il": "Siirt",
-    "plaka": 56,
-    "ilceleri": [
+    "city": "Siirt",
+    "plateCode": 56,
+    "provinces": [
       "Merkez",
       "Baykan",
       "Eruh",
       "Kurtalan",
       "Pervari",
-      "Şirvan",
+      "Åirvan",
       "Tillo"
     ]
   },
   {
-    "il": "Sinop",
-    "plaka": 57,
-    "ilceleri": [
+    "city": "Sinop",
+    "plateCode": 57,
+    "provinces": [
       "Merkez",
-      "Ayancık",
+      "AyancÄ±k",
       "Boyabat",
-      "Durağan",
+      "DuraÄŸan",
       "Erfelek",
       "Gerze",
-      "Türkeli",
+      "TÃ¼rkeli",
       "Dikmen",
-      "Saraydüzü"
+      "SaraydÃ¼zÃ¼"
     ]
   },
   {
-    "il": "Sivas",
-    "plaka": 58,
-    "ilceleri": [
+    "city": "Sivas",
+    "plateCode": 58,
+    "provinces": [
       "Merkez",
-      "Divriği",
+      "DivriÄŸi",
       "Gemerek",
-      "Gürün",
+      "GÃ¼rÃ¼n",
       "Hafik",
-      "İmranlı",
+      "Ä°mranlÄ±",
       "Kangal",
       "Koyulhisar",
-      "Suşehri",
-      "Şarkışla",
-      "Yıldızeli",
+      "SuÅŸehri",
+      "ÅarkÄ±ÅŸla",
+      "YÄ±ldÄ±zeli",
       "Zara",
-      "Akıncılar",
-      "Altınyayla",
-      "Doğanşar",
-      "Gölova",
-      "Ulaş"
+      "AkÄ±ncÄ±lar",
+      "AltÄ±nyayla",
+      "DoÄŸanÅŸar",
+      "GÃ¶lova",
+      "UlaÅŸ"
     ]
   },
   {
-    "il": "Tekirdağ",
-    "plaka": 59,
-    "ilceleri": [
+    "city": "TekirdaÄŸ",
+    "plateCode": 59,
+    "provinces": [
       "Merkez",
-      "Çerkezköy",
-      "Çorlu",
+      "Ã‡erkezkÃ¶y",
+      "Ã‡orlu",
       "Ergene",
       "Hayrabolu",
       "Malkara",
-      "Muratlı",
+      "MuratlÄ±",
       "Saray",
-      "Kapaklı",
-      "Şarköy",
-      "Marmaraereğlisi"
+      "KapaklÄ±",
+      "ÅarkÃ¶y",
+      "MarmaraereÄŸlisi"
     ],
-    "merkezIlceleri": [
-      "Süleymanpaşa"
+    "centralProvinces": [
+      "SÃ¼leymanpaÅŸa"
     ]
   },
   {
-    "il": "Tokat",
-    "plaka": 60,
-    "ilceleri": [
+    "city": "Tokat",
+    "plateCode": 60,
+    "provinces": [
       "Merkez",
       "Almus",
       "Artova",
       "Erbaa",
       "Niksar",
-      "Reşadiye",
+      "ReÅŸadiye",
       "Turhal",
       "Zile",
       "Pazar",
-      "Yeşilyurt",
-      "Başçiftlik",
+      "YeÅŸilyurt",
+      "BaÅŸÃ§iftlik",
       "Sulusaray"
     ]
   },
   {
-    "il": "Trabzon",
-    "plaka": 61,
-    "ilceleri": [
+    "city": "Trabzon",
+    "plateCode": 61,
+    "provinces": [
       "Merkez",
-      "Akçaabat",
-      "Araklı",
+      "AkÃ§aabat",
+      "AraklÄ±",
       "Arsin",
-      "Çaykara",
-      "Maçka",
+      "Ã‡aykara",
+      "MaÃ§ka",
       "Of",
-      "Sürmene",
+      "SÃ¼rmene",
       "Tonya",
-      "Vakfıkebir",
+      "VakfÄ±kebir",
       "Yomra",
-      "Beşikdüzü",
-      "Şalpazarı",
-      "Çarşıbaşı",
-      "Dernekpazarı",
-      "Düzköy",
+      "BeÅŸikdÃ¼zÃ¼",
+      "ÅalpazarÄ±",
+      "Ã‡arÅŸÄ±baÅŸÄ±",
+      "DernekpazarÄ±",
+      "DÃ¼zkÃ¶y",
       "Hayrat",
-      "Köprübaşı"
+      "KÃ¶prÃ¼baÅŸÄ±"
     ],
-    "merkezIlceleri": [
+    "centralProvinces": [
       "Ortahisar"
     ]
   },
   {
-    "il": "Tunceli",
-    "plaka": 62,
-    "ilceleri": [
+    "city": "Tunceli",
+    "plateCode": 62,
+    "provinces": [
       "Merkez",
-      "Çemişgezek",
+      "Ã‡emiÅŸgezek",
       "Hozat",
       "Mazgirt",
-      "Nazımiye",
-      "Ovacık",
+      "NazÄ±miye",
+      "OvacÄ±k",
       "Pertek",
-      "Pülümür"
+      "PÃ¼lÃ¼mÃ¼r"
     ]
   },
   {
-    "il": "Şanlıurfa",
-    "plaka": 63,
-    "ilceleri": [
+    "city": "ÅanlÄ±urfa",
+    "plateCode": 63,
+    "provinces": [
       "Merkez",
-      "Akçakale",
+      "AkÃ§akale",
       "Birecik",
       "Bozova",
-      "Ceylanpınar",
+      "CeylanpÄ±nar",
       "Halfeti",
       "Hilvan",
       "Siverek",
-      "Suruç",
-      "Viranşehir",
+      "SuruÃ§",
+      "ViranÅŸehir",
       "Harran"
     ],
-    "merkezIlceleri": [
-      "Eyyübiye",
+    "centralProvinces": [
+      "EyyÃ¼biye",
       "Haliliye",
-      "Karaköprü"
+      "KarakÃ¶prÃ¼"
     ]
   },
   {
-    "il": "Uşak",
-    "plaka": 64,
-    "ilceleri": [
+    "city": "UÅŸak",
+    "plateCode": 64,
+    "provinces": [
       "Merkez",
       "Banaz",
-      "Eşme",
-      "Karahallı",
-      "Sivaslı",
+      "EÅŸme",
+      "KarahallÄ±",
+      "SivaslÄ±",
       "Ulubey"
     ]
   },
   {
-    "il": "Van",
-    "plaka": 65,
-    "ilceleri": [
+    "city": "Van",
+    "plateCode": 65,
+    "provinces": [
       "Merkez",
-      "Başkale",
-      "Çatak",
-      "Erciş",
-      "Gevaş",
-      "Gürpınar",
+      "BaÅŸkale",
+      "Ã‡atak",
+      "ErciÅŸ",
+      "GevaÅŸ",
+      "GÃ¼rpÄ±nar",
       "Muradiye",
-      "Özalp",
-      "Bahçesaray",
-      "Çaldıran",
+      "Ã–zalp",
+      "BahÃ§esaray",
+      "Ã‡aldÄ±ran",
       "Edremit",
       "Saray"
     ],
-    "merkezIlceleri": [
-      "İpekyolu",
-      "Tuşba"
+    "centralProvinces": [
+      "Ä°pekyolu",
+      "TuÅŸba"
     ]
   },
   {
-    "il": "Yozgat",
-    "plaka": 66,
-    "ilceleri": [
+    "city": "Yozgat",
+    "plateCode": 66,
+    "provinces": [
       "Merkez",
-      "Akdağmadeni",
-      "Boğazlıyan",
-      "Çayıralan",
-      "Çekerek",
-      "Sarıkaya",
+      "AkdaÄŸmadeni",
+      "BoÄŸazlÄ±yan",
+      "Ã‡ayÄ±ralan",
+      "Ã‡ekerek",
+      "SarÄ±kaya",
       "Sorgun",
-      "Şefaatli",
-      "Yerköy",
+      "Åefaatli",
+      "YerkÃ¶y",
       "Merkez",
-      "Aydıncık",
-      "Çandır",
-      "Kadışehri",
+      "AydÄ±ncÄ±k",
+      "Ã‡andÄ±r",
+      "KadÄ±ÅŸehri",
       "Saraykent",
-      "Yenifakılı"
+      "YenifakÄ±lÄ±"
     ]
   },
   {
-    "il": "Zonguldak",
-    "plaka": 67,
-    "ilceleri": [
+    "city": "Zonguldak",
+    "plateCode": 67,
+    "provinces": [
       "Merkez",
-      "Çaycuma",
+      "Ã‡aycuma",
       "Devrek",
-      "Ereğli",
-      "Alaplı",
-      "Gökçebey"
+      "EreÄŸli",
+      "AlaplÄ±",
+      "GÃ¶kÃ§ebey"
     ]
   },
   {
-    "il": "Aksaray",
-    "plaka": 68,
-    "ilceleri": [
+    "city": "Aksaray",
+    "plateCode": 68,
+    "provinces": [
       "Merkez",
-      "Ağaçören",
+      "AÄŸaÃ§Ã¶ren",
       "Eskil",
-      "Gülağaç",
-      "Güzelyurt",
-      "Ortaköy",
-      "Sarıyahşi"
+      "GÃ¼laÄŸaÃ§",
+      "GÃ¼zelyurt",
+      "OrtakÃ¶y",
+      "SarÄ±yahÅŸi"
     ]
   },
   {
-    "il": "Bayburt",
-    "plaka": 69,
-    "ilceleri": [
+    "city": "Bayburt",
+    "plateCode": 69,
+    "provinces": [
       "Merkez",
-      "Aydıntepe",
-      "Demirözü"
+      "AydÄ±ntepe",
+      "DemirÃ¶zÃ¼"
     ]
   },
   {
-    "il": "Karaman",
-    "plaka": 70,
-    "ilceleri": [
+    "city": "Karaman",
+    "plateCode": 70,
+    "provinces": [
       "Merkez",
       "Ermenek",
-      "Ayrancı",
-      "Kazımkarabekir",
-      "Başyayla",
-      "Sarıveliler"
+      "AyrancÄ±",
+      "KazÄ±mkarabekir",
+      "BaÅŸyayla",
+      "SarÄ±veliler"
     ]
   },
   {
-    "il": "Kırıkkale",
-    "plaka": 71,
-    "ilceleri": [
+    "city": "KÄ±rÄ±kkale",
+    "plateCode": 71,
+    "provinces": [
       "Merkez",
       "Delice",
       "Keskin",
       "Sulakyurt",
-      "Bahşili",
-      "Balışeyh",
-      "Çelebi",
-      "Karakeçili",
-      "Yahşihan"
+      "BahÅŸili",
+      "BalÄ±ÅŸeyh",
+      "Ã‡elebi",
+      "KarakeÃ§ili",
+      "YahÅŸihan"
     ]
   },
   {
-    "il": "Batman",
-    "plaka": 72,
-    "ilceleri": [
+    "city": "Batman",
+    "plateCode": 72,
+    "provinces": [
       "Merkez",
-      "Beşiri",
-      "Gercüş",
+      "BeÅŸiri",
+      "GercÃ¼ÅŸ",
       "Kozluk",
       "Sason",
       "Hasankeyf"
     ]
   },
   {
-    "il": "Şırnak",
-    "plaka": 73,
-    "ilceleri": [
+    "city": "ÅÄ±rnak",
+    "plateCode": 73,
+    "provinces": [
       "Merkez",
-      "Beytüşşebap",
+      "BeytÃ¼ÅŸÅŸebap",
       "Cizre",
-      "İdil",
+      "Ä°dil",
       "Silopi",
       "Uludere",
-      "Güçlükonak"
+      "GÃ¼Ã§lÃ¼konak"
     ]
   },
   {
-    "il": "Bartın",
-    "plaka": 74,
-    "ilceleri": [
+    "city": "BartÄ±n",
+    "plateCode": 74,
+    "provinces": [
       "Merkez",
-      "Kurucaşile",
+      "KurucaÅŸile",
       "Ulus",
       "Amasra"
     ]
   },
   {
-    "il": "Ardahan",
-    "plaka": 75,
-    "ilceleri": [
+    "city": "Ardahan",
+    "plateCode": 75,
+    "provinces": [
       "Merkez",
-      "Çıldır",
-      "Göle",
+      "Ã‡Ä±ldÄ±r",
+      "GÃ¶le",
       "Hanak",
       "Posof",
       "Damal"
     ]
   },
   {
-    "il": "Iğdır",
-    "plaka": 76,
-    "ilceleri": [
+    "city": "IÄŸdÄ±r",
+    "plateCode": 76,
+    "provinces": [
       "Merkez",
-      "Aralık",
+      "AralÄ±k",
       "Tuzluca",
       "Karakoyunlu"
     ]
   },
   {
-    "il": "Yalova",
-    "plaka": 77,
-    "ilceleri": [
+    "city": "Yalova",
+    "plateCode": 77,
+    "provinces": [
       "Merkez",
-      "Altınova",
+      "AltÄ±nova",
       "Armutlu",
-      "Çınarcık",
-      "Çiftlikköy",
+      "Ã‡Ä±narcÄ±k",
+      "Ã‡iftlikkÃ¶y",
       "Termal"
     ]
   },
   {
-    "il": "Karabük",
-    "plaka": 78,
-    "ilceleri": [
+    "city": "KarabÃ¼k",
+    "plateCode": 78,
+    "provinces": [
       "Merkez",
       "Eflani",
       "Eskipazar",
-      "Ovacık",
+      "OvacÄ±k",
       "Safranbolu",
       "Yenice"
     ]
   },
   {
-    "il": "Kilis",
-    "plaka": 79,
-    "ilceleri": [
+    "city": "Kilis",
+    "plateCode": 79,
+    "provinces": [
       "Merkez",
       "Elbeyli",
       "Musabeyli",
@@ -1530,30 +1531,30 @@
     ]
   },
   {
-    "il": "Osmaniye",
-    "plaka": 80,
-    "ilceleri": [
+    "city": "Osmaniye",
+    "plateCode": 80,
+    "provinces": [
       "Merkez",
-      "Bahçe",
+      "BahÃ§e",
       "Kadirli",
-      "Düziçi",
+      "DÃ¼ziÃ§i",
       "Hasanbeyli",
       "Sumbas",
       "Toprakkale"
     ]
   },
   {
-    "il": "Düzce",
-    "plaka": 81,
-    "ilceleri": [
+    "city": "DÃ¼zce",
+    "plateCode": 81,
+    "provinces": [
       "Merkez",
-      "Akçakoca",
-      "Yığılca",
+      "AkÃ§akoca",
+      "YÄ±ÄŸÄ±lca",
       "Cumayeri",
-      "Gölyaka",
-      "Çilimli",
-      "Gümüşova",
-      "Kaynaşlı"
+      "GÃ¶lyaka",
+      "Ã‡ilimli",
+      "GÃ¼mÃ¼ÅŸova",
+      "KaynaÅŸlÄ±"
     ]
   }
 ]
